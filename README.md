@@ -1,3 +1,25 @@
+# Birds & Seeds — Marketplace UI/UX Demo (React Native + Expo)
+
+A demo project showcasing an alternative UI navigation flow and filtering logic for a mobile marketplace app. All content and assets are fictional and used solely for demonstration purposes.
+
+## Purpose
+
+This demo explores:
+
+- A redesigned navigation flow
+- Enhanced filtering UX (by body style, year, transmission, etc.)
+- Practical use of Expo Router and widely used dependencies
+- Improved layout structure and responsiveness
+
+This prototype is part of a design and architecture study.
+It was built with a focus on usability, simplicity, and scalable logic.
+
+### Screenshots
+
+<img src="./screenshots/home.png" width="300"/>
+<img src="./screenshots/filters.png" width="300"/>  
+<img src="./screenshots/search.png" width="300"/>
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
