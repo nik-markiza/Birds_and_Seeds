@@ -1,0 +1,68 @@
+const Birds = [
+  {
+    id: 0,
+    year: 1957,
+    transmission: 'Manual',
+    type: 'Coupe',
+    image: require('../assets/images/birds/bird1.jpg'),
+    auction: 'Live',
+  },
+  {
+    id: 1,
+    year: 1969,
+    transmission: 'Automatic',
+    type: 'Sedan',
+    image: require('../assets/images/birds/bird2.jpg'),
+    auction: 'Featured',
+  },
+  {
+    id: 2,
+    year: 1976,
+    transmission: 'Manual',
+    type: 'Convertible',
+    image: require('../assets/images/birds/bird3.jpg'),
+    auction: 'Past',
+  },
+  {
+    id: 3,
+    year: 1989,
+    transmission: 'Automatic',
+    type: 'Hatchback',
+    image: require('../assets/images/birds/bird4.jpg'),
+    auction: 'Live',
+  },
+  {
+    id: 4,
+    year: 1991,
+    transmission: 'Manual',
+    type: 'Crossover',
+    image: require('../assets/images/birds/bird5.jpg'),
+    auction: 'Featured',
+  },
+  {
+    id: 5,
+    year: 2007,
+    transmission: 'Automatic',
+    type: 'Truck',
+    image: require('../assets/images/birds/bird6.jpg'),
+    auction: 'Past',
+  },
+  {
+    id: 6,
+    year: 2013,
+    transmission: 'Manual',
+    type: 'Van',
+    image: require('../assets/images/birds/bird7.jpg'),
+    auction: 'Live',
+  },
+  {
+    id: 7,
+    year: 2026,
+    transmission: 'Automatic',
+    type: 'Wagon',
+    image: require('../assets/images/birds/bird8.jpg'),
+    auction: 'Featured',
+  },
+];
+
+export default Birds;

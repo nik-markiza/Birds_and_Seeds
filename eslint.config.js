@@ -3,7 +3,16 @@ const { defineConfig } = require('eslint/config');
 const expoConfig = require('eslint-config-expo/flat');
 
 module.exports = defineConfig([
-  expoConfig,
+  ...expoConfig,
+  {
+    files: ['**/*.{js,ts,jsx,tsx}'],
+    plugins: {
+      prettier: require('eslint-plugin-prettier'),
+    },
+    rules: {
+      'prettier/prettier': 'error',
+    },
+  },
   {
     ignores: ['dist/*'],
   },
