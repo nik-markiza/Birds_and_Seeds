@@ -16,9 +16,9 @@ It was built with a focus on usability, simplicity, and scalable logic.
 
 ### Screenshots
 
-<img src="./screenshots/home.png" width="300"/>
-<img src="./screenshots/filters.png" width="300"/>  
-<img src="./screenshots/search.png" width="300"/>
+<img src="./screenshots/home.png" width="30%" />
+<img src="./screenshots/filters.png" width="30%" />
+<img src="./screenshots/search.png" width="30%" />
 
 # Welcome to your Expo app 👋
 
